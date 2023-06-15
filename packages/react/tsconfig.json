@@ -9,6 +9,7 @@
     "strict": true,
     "sourceMap": true,
     "declaration": true,
+    "declarationMap": true,
     "skipLibCheck": true,
     "checkJs": false,
     "allowJs": true,

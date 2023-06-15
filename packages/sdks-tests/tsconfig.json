@@ -9,6 +9,7 @@
     "skipLibCheck": true,
     "outDir": "dist",
     "declaration": true,
+    "declarationMap": true,
     "allowJs": true,
   },
   "include": [
